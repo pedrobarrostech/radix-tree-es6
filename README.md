@@ -1,4 +1,4 @@
-# Radix tree
+# Radix tree in ES6
 
 A Radix tree is an special type of trie. So, what is a trie? A trie is a tree where the keys are strings and each edge is labeled with a character. Each node in the tree represents the string made by the concatenation of all the symbols (characters) in the edges of the path from the root and the actual node.
 
